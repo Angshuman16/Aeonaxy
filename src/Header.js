@@ -9,7 +9,7 @@ const Header = () => {
             <div className='flex items-center'>
                 <div className='flex-shrink-0'>
                     
-                        {/* Your SVG code for Calendly logo */}
+                     
 
                  <div className='flex mt-3'>     
                         
@@ -30,23 +30,10 @@ const Header = () => {
 
   </div>  
 
-
-
-     
-    
-
-
-                        
-
-
-                        
-                        
-                    
                 </div>
                 <div className='hidden md:flex ml-8'>
 
 
-                    {/* Your SVG code for the second logo */}
                 </div>
                 <div className='hidden md:flex mx-44 p-2'>
                     <a href="#" className='mt-4 mx-6 font-semibold'>Individuals</a>
